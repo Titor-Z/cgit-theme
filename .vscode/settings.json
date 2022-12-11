@@ -1,0 +1,7 @@
+{
+  "prettier.enable": true,
+  "prettier.configPath": "",
+  "prettier.printWidth": 60,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false
+}
